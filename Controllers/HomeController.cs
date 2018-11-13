@@ -12,6 +12,10 @@ namespace DontHaveACoke.Controllers
         {
             return View();
         }
+        public ActionResult Mission()
+        {
+            return View("Mission");
+        }
 
         public ActionResult About()
         {
