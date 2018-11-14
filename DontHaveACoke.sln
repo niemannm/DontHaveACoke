@@ -1,15 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-<<<<<<< HEAD
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontHaveACoke", "DontHaveACoke.csproj", "{FDB8D1F6-A675-4CB9-BBE4-FA1AE0EF6EFE}"
-=======
-VisualStudioVersion = 15.0.28010.2026
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DontHaveACoke", "DontHaveACoke\DontHaveACoke.csproj", "{FDB8D1F6-A675-4CB9-BBE4-FA1AE0EF6EFE}"
->>>>>>> d353acc84f410b8cf8063ecb23c36e8f6173e008
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,10 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-<<<<<<< HEAD
 		SolutionGuid = {080018BF-ADC2-4E59-818C-1F767AF341B6}
-=======
-		SolutionGuid = {4CE1EBC2-C344-45E5-A921-9CECD53DC4F9}
->>>>>>> d353acc84f410b8cf8063ecb23c36e8f6173e008
 	EndGlobalSection
 EndGlobal
