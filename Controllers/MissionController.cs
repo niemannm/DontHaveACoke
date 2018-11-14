@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace DontHaveACoke.Controllers
 {
+    //this is the mission controller, where we show the different missions. 
     public class MissionController : Controller
     {
         string mission = "";
